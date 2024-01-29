@@ -1,0 +1,37 @@
+h1{
+    text-align:center;
+}
+h4{
+    text-align:center;
+}
+body {
+    background-image:url(bgg.jpg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(9, 11, 6);
+    }
+.navbar ul{
+    list-style-type:none;
+    background-color: rgb(139, 186, 231);
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+}
+.navbar a{
+    color: rgb(183, 23, 23);
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar li{
+    float: left;
+}
+aside{
+    width:20%;
+    float:left;
+    padding:10px
+}
